@@ -1,0 +1,13 @@
+ .user{
+        text-align: center;
+        color: rgb(17, 134, 236);
+        font: arial;
+        font-size: 50px;
+    }
+
+ .profile {
+        text-align: left;
+        color: rgb(14, 184, 14);
+        font: arial;
+        font-size: 10px;
+    }
